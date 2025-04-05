@@ -2,6 +2,8 @@
 
 Welcome to the **Rock-Paper-Scissors Game** repository! This project is a simple yet interactive command-line game implemented in Python. Challenge the computer in this classic game and see if you can outsmart it.
 
+
+![](https://github.com/psyccho00/rock-paper-scissor/blob/main/SPC.png)
 ---
 
 ## 📂 Repository Structure
